@@ -2,6 +2,7 @@
 
 #### Eu sou o Eduardo e estou cursando Análise e Desenvolvimento de Sistemas.
 
+Estou sempre aprendendo e melhorando meu códigos, possuo projetos em PHP, HTML,
 Atualmente estou voltado para projetos escritos em python, você pode ver alguns logo abaixo ⬇:
 
 
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
