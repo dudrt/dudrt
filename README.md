@@ -1,8 +1,8 @@
 # Olá 👋
 
-#### Eu sou o Eduardo, estou cursando Analise e Desenvolvimento de Sistemas.
+#### Eu sou o Eduardo e estou cursando Análise e Desenvolvimento de Sistemas.
 
-
+Atualmente estou voltado para projetos escritos em python, você pode ver alguns logo abaixo ⬇:
 
 
 <!--
