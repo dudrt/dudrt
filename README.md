@@ -10,8 +10,8 @@ Estou sempre aprendendo e melhorando meu códigos.A ideia de criar algo novo me 
 
 <hr>
 
-Fique a vontade para entrar em contato comigo por:
-📧 email: eduardo.rothh@gmail.com
+Fique a vontade para entrar em contato comigo por:<br>
+📧 email: eduardo.rothh@gmail.com <br>
 💼 in: <a>https://www.linkedin.com/in/eduardo-roth/</a>
 
 
