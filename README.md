@@ -10,4 +10,9 @@ Estou sempre aprendendo e melhorando meu códigos.A ideia de criar algo novo me 
 
 <hr>
 
-## Porém, atualmente estou voltado para projetos escritos em python:⬇
+Fique a vontade para entrar em contato comigo por:
+📧 email: eduardo.rothh@gmail.com
+💼 in: <a>https://www.linkedin.com/in/eduardo-roth/</a>
+
+
+### Atualmente estou voltado para projetos escritos em python:⬇
