@@ -19,4 +19,4 @@ Fique a vontade para entrar em contato comigo por:<br>
 
 #### <a target="_blank" rel="noopener noreferrer" style='font-size:20px;' href='https://discord.com/api/oauth2/authorize?client_id=1009573575629471825&permissions=277025438784&scope=bot'> Discord </a><img src="https://github.com/dudrt/dudrt/blob/main/discord-svgrepo-com.svg"  width='20' height='20'>
 #### <a target="_blank" rel="noopener noreferrer" href='https://twitter.com/art_bot_ai' >Twitter</a> <img src='https://github.com/dudrt/dudrt/blob/main/twitter-svgrepo-com.svg' width='20' height='20'>
-### Atualmente estou voltado para projetos escritos em python:⬇
+### Atualmente estou voltado para projetos escritos em python, aqui estão alguns que já terminei:⬇
