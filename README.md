@@ -16,6 +16,6 @@ Fique a vontade para entrar em contato comigo por:<br>
 
 
 Da uma olhada nos meus bots 🤖:
-<img srx='https://icons8.com/icon/D2NqKl85S8Ye/discord' width='20' height='20'> <a href='https://discord.com/api/oauth2/authorize?client_id=1009573575629471825&permissions=277025438784&scope=bot'>Discord</a>
+<img srx='https://icons8.com/icon/D2NqKl85S8Ye/discord' width='20' height='20' alt='discord'><a href='https://discord.com/api/oauth2/authorize?client_id=1009573575629471825&permissions=277025438784&scope=bot'>Discord</a>
 <a href='https://twitter.com/art_bot_ai'>Twitter</a>
 ### Atualmente estou voltado para projetos escritos em python:⬇
