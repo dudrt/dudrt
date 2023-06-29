@@ -7,7 +7,7 @@ Estou sempre aprendendo e melhorando meu códigos.A ideia de criar algo novo me 
 ## Minhas skills:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <hr>
 
 Fique a vontade para entrar em contato comigo por:<br>
@@ -19,4 +19,4 @@ Fique a vontade para entrar em contato comigo por:<br>
 
 #### <a target="_blank" rel="noopener noreferrer" style='font-size:20px;' href='https://discord.com/api/oauth2/authorize?client_id=1009573575629471825&permissions=277025438784&scope=bot'> Discord </a><img src="https://github.com/dudrt/dudrt/blob/main/discord-svgrepo-com.svg"  width='20' height='20'>
 #### <a target="_blank" rel="noopener noreferrer" href='https://twitter.com/GatosDiarios' >Twitter</a> <img src='https://github.com/dudrt/dudrt/blob/main/twitter-svgrepo-com.svg' width='20' height='20'>
-### Atualmente estou voltado para projetos escritos em python. Aqui estão alguns que já terminei:⬇
+### Estou sempre desenvolvendo algum projeto, veja alguns:⬇
