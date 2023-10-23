@@ -13,10 +13,16 @@ Estou sempre aprendendo e melhorando meu códigos.A ideia de criar algo novo me 
 Fique a vontade para entrar em contato comigo por:<br>
 📧 email: eduardo.rothh@gmail.com <br>
 💼 in: <a>https://www.linkedin.com/in/eduardo-roth/</a>
+<br>
 
 
 ### Dê uma olhada nos meus bots 🤖: <br>
 
 #### <a target="_blank" rel="noopener noreferrer" style='font-size:20px;' href='https://discord.com/api/oauth2/authorize?client_id=1009573575629471825&permissions=277025438784&scope=bot'> Discord </a><img src="https://github.com/dudrt/dudrt/blob/main/discord-svgrepo-com.svg"  width='20' height='20'>
 #### <a target="_blank" rel="noopener noreferrer" href='https://twitter.com/GatosDiarios' >Twitter</a> <img src='https://github.com/dudrt/dudrt/blob/main/twitter-svgrepo-com.svg' width='20' height='20'>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudrt&theme=github_dark&langs_count=8&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=320" alt="Linguagens de dudrt" align="left" /><br>
+
+
 ### Estou sempre desenvolvendo algum projeto, veja alguns:⬇
